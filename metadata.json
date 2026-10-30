@@ -1,0 +1,6 @@
+{
+  "name": "Fleur Décor",
+  "description": "Wedding Flowers Decoration Mobile App with visual image retrieval (CBIR), curated editorial catalog tiers, consultation, and booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
